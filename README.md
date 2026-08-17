@@ -145,21 +145,7 @@ en      B1–B2
 
 ## `metrics`
 
-> Most of my production work lives in private repositories, so treat the graphs below
-> as a sample rather than the full build history.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=whats0n&show_icons=true&hide_border=true&theme=vue-dark&bg_color=00000000&icon_color=42B883&title_color=42B883">
-  <img src="https://github-readme-stats.vercel.app/api?username=whats0n&show_icons=true&hide_border=true&theme=vue&bg_color=00000000&icon_color=42B883&title_color=35495E" alt="GitHub stats" height="165">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=whats0n&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&title_color=42B883">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whats0n&layout=compact&hide_border=true&theme=vue&bg_color=00000000&title_color=35495E" alt="Top languages" height="165">
-</picture>
-
-</div>
+> Most of my production work lives in private repositories.
 
 <br>
 
